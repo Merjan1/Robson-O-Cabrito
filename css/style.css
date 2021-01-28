@@ -1,0 +1,25 @@
+.gameBoard {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro {
+  background-color: white;
+  width: 50%;
+  height: 605px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.img {
+  width: 50%;
+}
+
+.robson {
+  font-family: "Londrina Solid", cursive;
+  font-size: 50px;
+}
